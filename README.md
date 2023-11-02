@@ -8,4 +8,10 @@
 2) Нормализация по мини-батчам (Batch normalization)
 3) Dropout
 4) Сверточные нейронные сети (Convolutional Networks)
-- [ ] L4 -
+- [x] L4 - Tensorflow 2.x
+
+1) Подготовка данных
+
+2) Использование Keras Model API
+
+3) Использование Keras Sequential + Functional API
